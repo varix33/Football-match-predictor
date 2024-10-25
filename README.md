@@ -2,4 +2,4 @@
 
 
 
-[Consultez le guide complet](docs/Football_match_predictor.pdf)
+[Consultez le guide complet](docs/Football_Predictor_Report.pdf)
